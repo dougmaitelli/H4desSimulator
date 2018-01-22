@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1197578419 source:c:\projetos\c++\simulador\main.cpp
+	<pthread.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+
+1203810388 source:c:\documents and settings\doug\desktop\programas\projetos\c++\simulador\main.cpp
+	<pthread.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+
+1203814723 source:e:\projetos\c++\simulador\main.cpp
+	<pthread.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+
+1215899364 source:d:\projetos\c++\simulador\main.cpp
+	<pthread.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+
+1208130516 d:\projetos\c++\simulador\arquivos\include\pthread.h
+	<windows.h>
+	"config.h"
+	<windows.h>
+	<time.h>
+	<signal.h>
+	<setjmp.h>
+	<limits.h>
+	"need_errno.h"
+	<errno.h>
+	<sched.h>
+	<sys/types.h>
+
+1208130516 d:\projetos\c++\simulador\arquivos\include\config.h
+
+1208130516 d:\projetos\c++\simulador\arquivos\include\need_errno.h
+	<winsock.h>
+
+1208130516 d:\projetos\c++\simulador\arquivos\include\sched.h
+	"need_errno.h"
+	<errno.h>
+	<sys/types.h>
+	<time.h>
+
+1275697234 source:e:\myapps\simulador\main.cpp
+	<pthread.h>
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+
+1208130516 e:\myapps\simulador\arquivos\include\pthread.h
+	<windows.h>
+	"config.h"
+	<windows.h>
+	<time.h>
+	<signal.h>
+	<setjmp.h>
+	<limits.h>
+	"need_errno.h"
+	<errno.h>
+	<sched.h>
+	<sys/types.h>
+
+1208130516 e:\myapps\simulador\arquivos\include\config.h
+
+1208130516 e:\myapps\simulador\arquivos\include\need_errno.h
+	<winsock.h>
+
+1208130516 e:\myapps\simulador\arquivos\include\sched.h
+	"need_errno.h"
+	<errno.h>
+	<sys/types.h>
+	<time.h>
+
